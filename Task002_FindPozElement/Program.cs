@@ -30,19 +30,6 @@ bool FindPositionElement (int[,]array, int x, int y)
     return false;
 }
 
-// void FindpositionElement (int[,]array, int x, int y)
-// {
-//     if (x <= array.GetLength(0) && y<=array.GetLength(1))
-//     { 
-//         int result = array[x,y];
-//         return result;
-//     }
-    
-//     {
-//         System.Console.WriteLine();
-//     }
-// }
-
 void PrintArrayTwo(int[,] arrNums)
 {
     for (int i = 0; i < arrNums.GetLength(0); i++)
