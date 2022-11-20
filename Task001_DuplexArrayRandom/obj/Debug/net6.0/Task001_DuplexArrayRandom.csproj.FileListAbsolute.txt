@@ -1,0 +1,15 @@
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar7\Task001_DuplexArrayRandom\obj\Debug\net6.0\Task001_DuplexArrayRandom.csproj.AssemblyReference.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar7\Task001_DuplexArrayRandom\obj\Debug\net6.0\Task001_DuplexArrayRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar7\Task001_DuplexArrayRandom\obj\Debug\net6.0\Task001_DuplexArrayRandom.AssemblyInfoInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar7\Task001_DuplexArrayRandom\obj\Debug\net6.0\Task001_DuplexArrayRandom.AssemblyInfo.cs
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar7\Task001_DuplexArrayRandom\obj\Debug\net6.0\Task001_DuplexArrayRandom.csproj.CoreCompileInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar7\Task001_DuplexArrayRandom\bin\Debug\net6.0\Task001_DuplexArrayRandom.exe
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar7\Task001_DuplexArrayRandom\bin\Debug\net6.0\Task001_DuplexArrayRandom.deps.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar7\Task001_DuplexArrayRandom\bin\Debug\net6.0\Task001_DuplexArrayRandom.runtimeconfig.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar7\Task001_DuplexArrayRandom\bin\Debug\net6.0\Task001_DuplexArrayRandom.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar7\Task001_DuplexArrayRandom\bin\Debug\net6.0\Task001_DuplexArrayRandom.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar7\Task001_DuplexArrayRandom\obj\Debug\net6.0\Task001_DuplexArrayRandom.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar7\Task001_DuplexArrayRandom\obj\Debug\net6.0\refint\Task001_DuplexArrayRandom.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar7\Task001_DuplexArrayRandom\obj\Debug\net6.0\Task001_DuplexArrayRandom.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar7\Task001_DuplexArrayRandom\obj\Debug\net6.0\Task001_DuplexArrayRandom.genruntimeconfig.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar7\Task001_DuplexArrayRandom\obj\Debug\net6.0\ref\Task001_DuplexArrayRandom.dll
